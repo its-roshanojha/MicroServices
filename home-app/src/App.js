@@ -9,7 +9,7 @@ function App() {
       <Suspense fallback={<div>Loading Header...</div>}>
         <Header />
       </Suspense>
-      <div className="container">Demo home page</div>
+      <div className="container">Done with the Home Page.This is for the test</div>
     </div>
   );
 }
